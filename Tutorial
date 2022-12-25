@@ -1,0 +1,10 @@
+#Write a program that displays
+#Welcome to Python
+#Welcome to Computer Science
+#Programming is fun
+print("Welcome to Python")
+Welcome to Python
+print("Welcome to Computer Science")
+Welcome to Computer Science
+print("Programming is fun")
+Programming is fun
